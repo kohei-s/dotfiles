@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = koheisuzuki@me.com
+	name = Kohei Suzuki
